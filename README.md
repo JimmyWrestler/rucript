@@ -1,1 +1,1 @@
-# Crypgo-nextjs-tailwind
+# Рукрипт-nextjs-tailwind
