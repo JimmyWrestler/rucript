@@ -110,10 +110,11 @@
   }
 }
 
-@layer utilities {
-  .container {
-    @apply w-full max-w-8xl mx-auto;
-  }
+.container {
+  width: 100%;
+  max-width: 75rem;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 html {
