@@ -18,15 +18,15 @@
   --spacing-94: 22.5rem;
   --spacing-120: 120rem;
   --spacing-6_25: 6.25rem;
-  --spacing-70\%: 70%;
-  --spacing-40\%: 40%;
-  --spacing-30\%: 30%;
-  --spacing-80\%: 80%;
+--spacing-percent-70: 70%;
+--spacing-percent-40: 40%;
+--spacing-percent-30: 30%;
+--spacing-percent-80: 80%;
   --spacing-8_5: 8.5rem;
   --spacing-3_75: 3.75rem;
 
-  --inset-5\%: 5%;
-  --inset-35\%: 35%;
+--inset-percent-5: 5%;
+--inset-percent-35: 35%;
 
   --z-index-1: 1;
   --z-index-2: 2;
