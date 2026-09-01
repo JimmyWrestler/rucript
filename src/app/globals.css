@@ -85,8 +85,8 @@
   --text-86: 5.375rem;
   --text-86--line-height: 1.2;
 
-  --background-image-start: url('/images/work/bg-start.png');
-  --background-image-perk: url('/images/perks/perk-bg.png');
+  --background-image-start: url('/rucript/images/work/bg-start.png');
+  --background-image-perk: url('/rucript/images/perks/perk-bg.png');
 
   --blur-220: 220px;
   --blur-400: 400px;
