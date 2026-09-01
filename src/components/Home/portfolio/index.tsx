@@ -14,7 +14,7 @@ const Portfolio = () => {
             transition={{ duration: 0.6 }}
             className='lg:-ml-32'>
             <Image
-              src='/images/portfolio/img-portfolio.png'
+              src='/rucript/images/portfolio/img-portfolio.png'
               alt='Crypto Portfolio'
               width={780}
               height={700}
